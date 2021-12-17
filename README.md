@@ -1,6 +1,7 @@
 
 
-<p align="center"><img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons"></p>
+<p align="center"><img src="https://github.com/VishalMakwana23/React-Task-Tracker/blob/main/src/logo512.png" width="120" alt="React Icons">   </p>
+
 
 <h1 align="center">Task Tracker App</h1>
 
